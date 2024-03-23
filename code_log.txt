@@ -1,0 +1,9 @@
+
+2024-Jan-02-01:02:35:Initiating ETL process
+2024-Jan-02-01:02:38:TranformedETL process
+2024-Jan-02-01:02:38:Loaded in to csv file
+2024-Jan-02-01:02:38:Run_query
+2024-Jan-02-01:03:25:Initiating ETL process
+2024-Jan-02-01:03:28:TranformedETL process
+2024-Jan-02-01:03:28:Loaded in to csv file
+2024-Jan-02-01:03:28:Run_query
